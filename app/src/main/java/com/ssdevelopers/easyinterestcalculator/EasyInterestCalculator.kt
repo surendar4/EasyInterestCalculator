@@ -15,7 +15,6 @@ class EasyInterestCalculator : AppCompatActivity(), NavigationView.OnNavigationI
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         setContentView(R.layout.activity_easy_interest_calculator)
         setSupportActionBar(toolbar)
 
